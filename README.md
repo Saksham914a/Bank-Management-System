@@ -38,7 +38,7 @@ Current connection settings are configured in src/bank/management/system/Connn.j
 - Port: 3306
 - Database: banksystem
 - Username: root
-- Password: samop@12
+- Password: *****
 
 The app auto-creates required tables if they do not exist.
 
